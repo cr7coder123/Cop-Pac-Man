@@ -12,7 +12,7 @@ function preload(){
   point=loadSound("./Sounds/Points.wav");
   Dead=loadSound("./Sounds/Heart.wav");
   police=loadSound("./Sounds/Police.mp3")
-  car=loadSound("./Sounds/Car.wav")
+  car=loadSound("./Sounds/car.wav")
 }
 function setup() {
   createCanvas(560, 680);
